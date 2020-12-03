@@ -1,4 +1,4 @@
-# Validade-CPF
+# Validade CPF
 
 Brazilian CPF validation with JavaScript ... 
 
