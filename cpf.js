@@ -26,7 +26,7 @@ function isValidCPF(cpf) {
     return true
 }
 
-isValidCPF('07780015556') //True
+isValidCPF('06250781013') //True
 isValidCPF('11111111111') //False
 
 
